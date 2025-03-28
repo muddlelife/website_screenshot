@@ -1,0 +1,2 @@
+# website_screenshot
+利用fastapi和playwright对指定网页进行截图
